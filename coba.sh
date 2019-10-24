@@ -9,9 +9,9 @@ echo "welcome" | lolcat
 sleep 2
 clear
 echo "============================================="
-echo "               muhammad syafiul mubarrok                               "
-echo "                you tube: syafiul trulala                                         "
-echo "                WA: 081287742879                                                "
+echo "     muhammad syafiul mubarrok               "
+echo "     you tube: syafiul trulala               "
+echo "      WA: 081287742879                       "
 echo "============================================="
 
 lagi=1
